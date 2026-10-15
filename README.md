@@ -1,3 +1,15 @@
+> **分支声明 / Fork notice**
+> 本仓库是 [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) 的 fork（分支），作为原作者删除后的镜像备份。
+> This repository is a fork of [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift), kept as a mirror backup.
+> 版权归原作者所有；源代码沿用原始许可证，原始版权与许可声明均完整保留、未作修改。
+
+> **🌐 国内 / 网络不佳时的下载备选（网盘镜像）**
+> 如果你在中国大陆，或访问 GitHub 出现**下载慢、速度为 0、`Failed to fetch`、`network error`、页面打不开**等情况，请**直接使用下方夸克网盘链接下载**，无需访问 GitHub：
+> **夸克网盘**：https://pan.quark.cn/s/8be3d7e03038 （微信扫码或点链接即可，含完整 release 文件）
+>
+> 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/LinkSwift/releases) 或 [原项目 Releases](https://github.com/hmjz100/LinkSwift/releases) 下载。
+<img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
+
 > [!IMPORTANT]
 > 如果您是从 GreasyFork 找到这的，建议前往下方的 [安装](#安装) 选择一个合适的源覆盖安装，避免因脚本失效或 GF 黑产刷子导致无法及时更新。
 
