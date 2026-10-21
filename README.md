@@ -1,11 +1,12 @@
 > **下载说明**
-> 推荐通过下方夸克网盘直链下载（含完整 release 文件，微信扫码或点链接即可），无需访问 GitHub：
+> 优先推荐从百度网盘下载（含完整 release 文件，可用提取码获取），无需访问 GitHub：
+> **百度网盘**：https://pan.baidu.com/share/init?surl=PVOGXxlHXpp057QWocAtVA&pwd=x5db
+>
 > **夸克网盘**：https://pan.quark.cn/s/474a55d13a83
 >
 > 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/LinkSwift/releases) 下载。
 
 
-> **分支声明（Fork notice）**
 <p align="center">个人博客: <a target="_blank" href="https://hmjz100blog.rf.gd">https://hmjz100blog.rf.gd</a></p>
 <p align="center">个人博客: <a target="_blank" href="https://hmjz100blog.rf.gd">https://hmjz100blog.rf.gd</a></p>
 <p align="center">个人博客: <a target="_blank" href="https://hmjz100blog.rf.gd">https://hmjz100blog.rf.gd</a></p>
